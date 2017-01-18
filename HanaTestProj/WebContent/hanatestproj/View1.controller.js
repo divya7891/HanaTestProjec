@@ -7,7 +7,7 @@ sap.ui.controller("hanatestproj.View1", {
 */
 //	onInit: function() {
 //
-//	},
+//	}, 
 
 /**
 * Similar to onAfterRendering, but this hook is invoked before the controller's View is re-rendered
